@@ -1,5 +1,8 @@
 # sql-school-project
-SQL project created during the Database Management Systems course in which I showcase my ability to:
-- Design and create a relational database
+
+Database Management Systems final project 
+Created to show that I can:
+- Design a relational database
+- Create a relational database
 - Input data into tables
 - Query specific data needed
