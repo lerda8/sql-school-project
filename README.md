@@ -1,4 +1,4 @@
-# sql-school-project
+# Sql Final Project 
 
 Database Management Systems final project 
 Created to show that I can:
